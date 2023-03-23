@@ -14,3 +14,8 @@ ________________________________________________________________________________
 
 *2.[**arxiv 2022**]Contrastive Attention for Automatic Chest X-ray Report Generation[[pdf]](https://arxiv.org/pdf/2106.06965.pdf)
 
+![image](https://user-images.githubusercontent.com/102885188/227205907-177c207d-88dc-43b2-afef-712525a932f2.png)
+
+![image](https://user-images.githubusercontent.com/102885188/227206075-9357436c-e5c4-4e2b-b8b2-ff94460353b4.png)
+
+
