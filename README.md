@@ -1,7 +1,7 @@
 # x-ray-report-generation (paper & code)
 _________________________________________________________________________________
 # Contrastive Learning
-* 1.[** MIDL**(**CCF-A**) **2022**(**under review**)] Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation[[pdf]]
+* 1.[** MIDL** (**CCF-A**) **2022** (**under review**)] Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation[[pdf]]
  
 原因：一般预训练1.需要使用不同领域的数据集2.不能学习特定于医学领域的一般视觉表示
 
